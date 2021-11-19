@@ -5,4 +5,4 @@ description: New Website, New Blog
 #featured_image: '/images/ross/RossPortKneelLookingAtCamera.jpg'
 ---
 
-This is a new personal site.  Enjoy
+This is a new personal site I'm making.  Enjoy!
