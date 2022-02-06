@@ -13,7 +13,10 @@ Follow along with the charts below to see how I'm doing (same data, 2nd chart pl
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiwC4CGtB7_QUwZiyujY0rvpqtklPBC5eS9lsapTjDqkDdJSP5A3t-TgIbOFKwKcpTYhdMvJLJj8pL/pubchart?oid=24818069&amp;format=interactive" width="100%" height="400" style="border:none;"></iframe>
 
-A few notes - the included exponential projection is a decrease of 8.5% a day starting from the value reported on January 16.  If you want to see the sheet with the raw data (that automatically updates from [RIDoH's sheet](https://docs.google.com/spreadsheets/d/1c2QrNMz8pIbYEKzMJL7Uh2dtThOJa2j1sSMwiDo5Gz4/edit#gid=264100583) as it updates) you can see it [here](https://docs.google.com/spreadsheets/d/1WiKAfI0RHNm3amsWWkCp7VsAHufBypGsOSubR28oXjY/edit?usp=sharing).
+A few notes - the red exponential projection is a decrease of 8.5% a day starting from the value reported on January 16.  The yellow trend is based on the average day-over-day change from the past 7 days projected from the recently reported data.  In the most recently reported data, the dynamically-calculated average day-over-day change for the past 7 days has been:
+[![](https://shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D1WiKAfI0RHNm3amsWWkCp7VsAHufBypGsOSubR28oXjY%26cellRange%3DCalcs!B1)](https://docs.google.com/spreadsheets/d/1WiKAfI0RHNm3amsWWkCp7VsAHufBypGsOSubR28oXjY/edit#gid=0&range=Calcs!B1)
+
+If you want to see the sheet with the raw data (that automatically updates from [RIDoH's sheet](https://docs.google.com/spreadsheets/d/1c2QrNMz8pIbYEKzMJL7Uh2dtThOJa2j1sSMwiDo5Gz4/edit#gid=264100583) as it updates) you can see it [here](https://docs.google.com/spreadsheets/d/1WiKAfI0RHNm3amsWWkCp7VsAHufBypGsOSubR28oXjY/edit?usp=sharing).
 
 In case you're interested - the 8.5% daily drop projection hits the following thresholds on the following days:
 
