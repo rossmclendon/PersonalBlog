@@ -1,6 +1,7 @@
 ---
 title: 'Examining Vaccine Effectiveness'
 date: 2022-02-06 00:00:00
+last_modified_at: 2022-02-08T22:00:00-05:00
 description: What difference do the vaccines make?
 ---
 A lot of us hoped that the COVID vaccines would free us from concerns about COVID infection.  As I personally read over the Pfizer report at the end of 2020, my heart jumped when I saw a chart of infection rates flatlining 12 days post-shot for the vaccinated cohort while infections marched on in the control group.  But as we've gone through Delta and Omicron, a good bit of this shininess has worn off of the vaccines as large numbers of vaccinated people (myself included) become infected with these COVID variants.  If that was the end of it, I'd agree with the skeptics that the vaccines are largely a failure.  But taking a closer look at the data, a very different story starts to emerge.
