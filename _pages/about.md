@@ -3,9 +3,9 @@ title: 'About'
 date: 2021-11-16 00:00:00
 description: About Ross
 permalink: /about/
-#featured_image: '/images/ross/RossPortKneelLookingAtCamera.jpg'
+featured_image: '{ site.url }}{{ site.baseurl }}/assets/images/RossHeadshotMedium.jpg'
 ---
-
+![]({{ site.url }}{{ site.baseurl }}/assets/images/RossHeadshotMedium.jpg)
 Hi, I'm Ross, and this is my website.
 I wear a few different hats.
 I'm a Christian, husband, and father of four.
