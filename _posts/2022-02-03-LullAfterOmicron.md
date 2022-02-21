@@ -1,6 +1,9 @@
 ---
 title: 'Coming Out of Omicron, Heading into a COVID Lull'
 date: 2022-02-03 00:00:00
+tags:
+  - COVID-19
+  - data analysis
 description: Tracking the rapid drop in COVID coming out of Omicron
 ---
 Right now, coming out of the Omicron surge in Rhode Island, cases are dropping at faster rates than we have seen at any other stage of the pandemic except for maybe a few days at the end of May and beginning of June in 2021.  The drop has been a sustained, exponential decay that started mid-January.  This isn't just a drop because of testing at home; hospitalizations (a lagging indicator of cases) are falling precipitously as well, and it appears deaths (which lag even further) are also beginning to drop.
