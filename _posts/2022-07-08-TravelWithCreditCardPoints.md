@@ -1,6 +1,7 @@
 ---
 title: 'Saving on Travel with Credit Card Points'
 date: 2022-07-08 08:00:00
+image: /assets/images/Horseshoe_Bend_Sunset.jpg
 tags:
   - family
   - finance
