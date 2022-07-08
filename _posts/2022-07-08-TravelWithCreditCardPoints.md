@@ -8,8 +8,8 @@ tags:
 description: How we get credit card points to save on travel.
 header:
   teaser: /assets/images/Horseshoe_Bend_Sunset.jpg
+  image: /assets/images/Horseshoe_Bend_Sunset.jpg
 ---
-![]({{ site.baseurl }}/assets/images/Horseshoe_Bend_Sunset.jpg)
 
 *Disclaimer - this post contains referral links that confer a benefit to me when they're used*
 
