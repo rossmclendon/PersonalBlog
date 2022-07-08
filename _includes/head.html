@@ -23,3 +23,9 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header.teaser }}" />
+{% endif %}
+
+<meta property="og:description" content="{{ page.description }}" />
