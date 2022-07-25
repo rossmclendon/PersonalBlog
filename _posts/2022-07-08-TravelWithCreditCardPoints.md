@@ -13,7 +13,7 @@ header:
 
 *Disclaimer - this post contains referral links that confer a benefit to me when they're used*
 
-> A penny saved is only a penny earned if you would have spent it in the first place, otherwise it's just a penny not spent. - Ross McLendon
+> A penny saved is only a penny earned if you would have spent it in the first place, otherwise it's just a penny not spent. - Me
 
 ## Travel on a Budget
 Since 2019, my family hasn't spent much on travel.  That's not to say that we haven't traveled.  We've actually traveled quite a bit - several trips to Texas to see grandparents, a weekend adventure with an old college buddy of mine going down technical slot canyons and hiking in the Utah backcountry, and a family trip to Arizona and Utah over a week back in October 2021 to see Zion, Bryce Canyon, and Grand Canyon National Parks, in addition to a few more local trips around New England.
