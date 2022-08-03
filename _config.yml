@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ross McLendon's Website"
+title                    : "Finite Thoughts"
 title_separator          : "-"
-subtitle                 : "A Personal Page - Clever title TBD"
+subtitle                 : "Ross McLendon's Musings"
 name                     : "Ross McLendon"
 description              : "The personal website of Ross McLendon."
 url                      : "https://rossmclendon.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rossmclendon/PersonalBlog"
 teaser                   : "/assets/images/RossHeadshotSmall.jpg"
-logo                     : # "/assets/images/RossHeadshotSmall.jpg"
+logo                     : # "/assets/images/RossHeadshotTinyIcon.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
