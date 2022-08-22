@@ -5,6 +5,10 @@ description: Sermon from Luke 12:56
 tags:
   - faith
   - sermon
+image: /assets/images/ChurchGathering.jpg
+header:
+  teaser: /assets/images/ChurchGathering.jpg
+  image: /assets/images/ChurchGathering.jpg
 ---
 I preached Sunday evening at [Grace Harbor Church](graceharbor.net) in Providence from [Luke 12:56](https://www.biblegateway.com/passage/?search=Luke+12%3A49-59&version=CSB)
 

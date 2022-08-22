@@ -5,6 +5,10 @@ description: Sermon from Leviticus 19:18
 tags:
   - faith
   - sermon
+image: /assets/images/ChurchGathering.jpg
+header:
+  teaser: /assets/images/ChurchGathering.jpg
+  image: /assets/images/ChurchGathering.jpg
 ---
 I preached Sunday evening at [Grace Harbor Church](graceharbor.net) in Providence from [Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus+19%3A9-18&version=CSB)
 
