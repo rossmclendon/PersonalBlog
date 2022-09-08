@@ -31,6 +31,7 @@ Overall I thought Foulkes and McKee came across as the strongest candidates.
  - Foulkes and Brown got in some good zingers on McKee regarding Tidewater.  I see that potentially turning into a major debacle for McKee down the road, but I'm not so sure how much it will figure into this election.
  - Gorbea chose to burn 10% of her closing remarks time with “thank you” statements, which sort of struck me as representative of the overall way she came across - not the most substantive.
  - In McKee's closing statement, he referred to his time at governor during the “Biggest state of emergency in the history of the state of Rhode Island” (that may be a rough quote - the WPRI site didn't let you rewind the video). Left me wondering if they teach history in Rhode Island schools or just hyperbole.
+ - McKee asserted that everything he's done as governor has been to act in the best interest of Rhode Islanders. That's what I want from a governor. It's one of the things we regularly pray for at my church when we pray for those in authority over us. But it's also something I have a hard time squaring with the details I know about the ILO saga.
  
 ## Notes to Tim and Ted
  - Pretty good job of being uniformly adversarial in how they put the questions to the candidates.
@@ -39,6 +40,6 @@ Overall I thought Foulkes and McKee came across as the strongest candidates.
  - My favorite part of the debate may have been Ted’s hot mic “YOU MADE IT” to Tim at the end as he pointed to the clock.
  
 ## Other thoughts
-I recall a Ted tweet soliciting questions.  I wish I had considered responding.  Some things I would have liked to see:
+I recall a Ted tweet soliciting questions.  I wish I had considered responding.  Some things I would have found interesting:
  - Each candidate revisiting the lifting of COVID restrictions including the in-school student mask mandate in March.  Several of the candidates made very strong, critical statements at the time this decision was made.  I'd be really interested to see if they still feel the same way or whether they feel in hindsight that their position on the matter was incorrect.
- - An environmental question - how can a temperate climate state transitioning hard to renewables like RI ensure baseline electrical demands are met in winter months when solar production drops and heating deamnd peaks, especially given a push to kill off domestic natural gas (pushing heat generation onto the electrical grid)
+ - An environmental question - how can a temperate climate state transitioning hard to renewables like RI ensure baseline electrical demands are met in winter months when solar production drops and heating deamnd peaks, especially given a push to kill off domestic natural gas which will push heating onto the electrical grid.
