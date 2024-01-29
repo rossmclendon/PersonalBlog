@@ -8,8 +8,21 @@ featured_image: '{ site.url }}{{ site.baseurl }}/assets/images/RossHeadshotMediu
 I am an expert in the field of computational mechanics and finite element analysis with a background in materials modeling across multiple continuum scales.
 ## Employment and Positions
  - **Dassault Systemes**
-   - *SIMULIA R&D Software Development Senior Manager* 
-   2017-Present
+   - *SIMULIA R&D Product Manager for Abaqus FEA*<br>
+   2023-Present
+     - Coordinate planning and development of Abaqus/Standard and Abaqus/Explicit solvers
+       - Track progress of various enhancement developments
+       - Plan and prioritize future developments with development managers
+       - Review new feature documentation and release notes
+       - Work with DS product managers to support other DS products through FEA developments
+     - Handle various customer interactions as a representative for R&D
+       - Update Presentations
+       - Requests for Enhancement
+       - Support coordination as warranted
+     - Coordinate between field and sales organization and R&D
+     - Support FE-RVE Simulation
+   - *SIMULIA R&D Software Development Senior Manager*<br>
+   2017-2022
      - FE-RVE Simulation
        - Developing FE solver functionality to perform Finite Element Representative Volume Element (FE-RVE) simulation
      - Material Calibration App (originally released 2018)
@@ -25,7 +38,7 @@ I am an expert in the field of computational mechanics and finite element analys
    2016-2017
      - Developed Abaqus material modeling functionality
      - Implementing orthotropic and anisotropic thermal expansion across material models in Abaqus/Explicit solver
-   - *SIMULIA Back-end Mechanics Support Manager* 
+   - *SIMULIA Back-end Mechanics Support Manager*<br> 
    2013-2016
      - Supported front-end DS engineers world-wide on issues related to Abaqus and related software through Management of Service Requests, Bug Reports, and Bug Fix Validation, and customer-facing bug descriptions
      - Areas of specialization for support:
@@ -136,7 +149,7 @@ I am an expert in the field of computational mechanics and finite element analys
 ### Community Positions
  - Member at Grace Harbor Church
    - Completed term as Deacon of Music 2015-2021
- - Member of Providence Singers 2016-Present
+ - Member of Providence Singers 2016-2023
  - Member of Baptist Convention of New England Board of Directors 2018-2021
  
 ### Hobbies
