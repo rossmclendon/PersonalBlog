@@ -4,6 +4,7 @@ date: 2024-12-01 18:00:00
 permalink: /ChristmasUpdate2024/
 search: exclude
 hidden: true
+classes: wide
 # published: false
 tags:
   - family
@@ -11,6 +12,8 @@ description: Catching up with the McLendons
 header:
   teaser: /assets/images/blog/FamilyChristmasUpdate2024/McLendonsGetATree2024.jpg
 ---
+{% include video id="p4wF2m08I_Q" provider="youtube" %} 
+
 To make up for not sending out a Christmas card the past two years, I'll be adding an update about our family here.  Right now this is full of partially- and hastily-completed sections.  If I haven't finished it by the time you land on this page, I'm sorry - extra time has been hard to come by lately.
 
 # Family Members
@@ -41,6 +44,9 @@ WE HAVE A TEENAGER!  Lucy turned 13 this October, and started 8th grade this aut
 *Ethan Starting 6th Grade*
 
 Ethan turned 11 in August.  After finishing 5th grade at Hoxsie in Warwick, he has started as a 6th grader at West Bay Christian Academy.  This year he played flag football in the winter, Little League baseball in the spring and fall, and ran cross country in the fall.  He just started basketball practice with the boys team from West Bay - a new team sport for him.
+
+[![Ethan]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanTreeSearching.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanTreeSearching.jpg)
+*Ethan searching for the perfect Christmas Tree*
 
 ## Carolyn
 [![CarolynSchool]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynFirstDay.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynFirstDay.jpg)
