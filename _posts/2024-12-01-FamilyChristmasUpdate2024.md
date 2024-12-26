@@ -66,7 +66,7 @@ WE HAVE A TEENAGER!  Lucy turned 13 this October and started 8th grade this autu
 [![EthanSchool]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanFirstDay.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanFirstDay.jpg)
 *Ethan Starting 6th Grade*
 
-Ethan turned 11 in August.  After finishing 5th grade at Hoxsie in Warwick, he started this fall as a 6th grader at West Bay Christian Academy.  This year he played flag football in the winter, Little League baseball in the spring and fall, and ran cross country in the fall.  He just started basketball with the boys team from West Bay - a new team sport for him.  In his spare time he enjoys reading, Legos, Nerf guns, video games, and knitting Star Wars into any conversation he might be part of.
+Ethan turned 11 in August.  After finishing 5th grade at Hoxsie in Warwick, he started this fall as a 6th grader at West Bay Christian Academy.  This year he played flag football in the winter, Little League baseball in the spring and fall, and ran cross country in the fall.  He just started basketball with the boys team from West Bay - a new team sport for him.  In his spare time he enjoys reading, Legos, Nerf guns, video games, and working Star Wars into any conversation he might be part of.
 
 [![Ethan]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanTreeSearching.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/EthanTreeSearching.jpg)
 *Ethan searching for the perfect Christmas Tree*
@@ -75,7 +75,7 @@ Ethan turned 11 in August.  After finishing 5th grade at Hoxsie in Warwick, he s
 [![CarolynSchool]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynFirstDay.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynFirstDay.jpg)
 *Carolyn Starting 3rd Grade*
 
-Carolyn just turned 9 and is a 3rd grader at Providence Classical Academy, a new hybrid classical school that was inaugurated this year. She is active in dance and gymnastics and enjoys reading and taking in the beauty of the world around her.  She loves to play with Katie and friends around the neighborhood.
+Carolyn just turned 9 and is a 3rd grader at Providence Classical Academy, a new hybrid classical school that was inaugurated this year. She is active in dance and gymnastics and enjoys reading, crafts, and taking in the beauty of the world around her.  She loves to play with Katie and friends around the neighborhood.
 
 [![Carolyn]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynTreeSearching.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/CarolynTreeSearching.jpg)
 *Carolyn searching for the perfect Christmas Tree*
@@ -84,13 +84,13 @@ Carolyn just turned 9 and is a 3rd grader at Providence Classical Academy, a new
 [![KatieSchool]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/KatieFirstDay.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/KatieFirstDay.jpg)
 *Katie Starting 1st Grade*
 
-Katie, our six-year-old, is a 1st grader at Providence Classical Academy. Like her sister Carolyn, she's active in dance and gymnastics.  She's a blossoming reader and loves to play fanciful games with her older sister and friends.
+Katie, our six-year-old, is a 1st grader at Providence Classical Academy. Like her sister Carolyn, she's active in dance and gymnastics.  She's a blossoming reader and loves Legos and playing fanciful games with her older sister and friends.
 
 [![Katie]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/KatieTreeSearching.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/KatieTreeSearching.jpg)
 *Katie searching for the perfect Christmas Tree*
 
 ## Meredith
-Meredith is a superwoman mother of 5 and wife of 1.  She has obviously been extremely busy with the kiddos this year.  She spends quite a bit of time shuttling them around from here to there and this fall has been teaching Carolyn and Katie during their at-home learning days. In addition to all this, she's managed to be involved beyond our family, including attending a Bible conference back in February and helping lead a women's Bible study at Grace Harbor. She's an avid reader, always working to learn something new and has found time to read through books on Alexandria, education, and Rome among others this year. She also made a trip to Texas with Michael over the summer to introduce him to family there while I stayed home with the other kiddos.  I'm bugging her to write an update herself to put here.
+Meredith is a superwoman mother of 5 and wife of 1.  She has obviously been extremely busy with the kiddos this year.  She spends quite a bit of time shuttling them around from here to there and this fall has been teaching Carolyn and Katie during their at-home learning days. In addition to all this, she's managed to be involved beyond the family, including attending a Bible conference back in February and helping lead a women's Bible study at Grace Harbor. She's an avid reader, always working to learn something new and has found time to read through books on Alexandria, education, and Rome among others this year. She also made a trip to Texas with Michael over the summer to introduce him to family there while I stayed home with the other kiddos.  I'm bugging her to write an update herself to put here.
 
 [![Meredith]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/MeredithTreeSearching.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/MeredithTreeSearching.jpg)
 *Meredith and ~~her barnacle~~ Michael searching for the perfect Christmas Tree*
