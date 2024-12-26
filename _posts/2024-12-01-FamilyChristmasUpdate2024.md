@@ -12,10 +12,10 @@ description: Catching up with the McLendons
 header:
   teaser: /assets/images/blog/FamilyChristmasUpdate2024/McLendonsGetATree2024.jpg
 gallery:
-  - url: /assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg
-    image_path: /assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg
-    alt: "Mount Baker from the Deming Glacier side"
-    title: "Mount Baker from the Deming Glacier side"
+#  - url: /assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg
+#    image_path: /assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg
+#    alt: "Mount Baker from the Deming Glacier side"
+#    title: "Mount Baker (or Kulshan if you prefer indigenous names) from the Deming Glacier side"
   - url: /assets/images/blog/FamilyChristmasUpdate2024/RomanWallCrew.jpg
     image_path: /assets/images/blog/FamilyChristmasUpdate2024/RomanWallCrew.jpg
     alt: "Crop from previous showing a climbing team going up the *Roman Wall*"
@@ -24,10 +24,22 @@ gallery:
     image_path: /assets/images/blog/FamilyChristmasUpdate2024/RossMattMerrittSummit.jpg
     alt: "Ross, Matt, and Merritt on the summit of Baker"
     title: "Ross, Matt, and Merritt on the summit of Baker being blasted by ~50 mph winds"
-#  - url: /assets/images/unsplash-gallery-image-4.jpg
-#    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-#    alt: "placeholder image 4"
-#    title: "Image 4 title caption"
+  - url: /assets/images/blog/FamilyChristmasUpdate2024/GlacierCrevasse.jpg
+    image_path: /assets/images/blog/FamilyChristmasUpdate2024/GlacierCrevasse.jpg
+    alt: "Glacier Crevasse"
+    title: "Crevasses are found all over glaciers, hiding under snow bridges that are hopefully strong enough to hold you up as you cross"
+  - url: /assets/images/blog/FamilyChristmasUpdate2024/MattOnGlacier.jpg
+    image_path: /assets/images/blog/FamilyChristmasUpdate2024/MattOnGlacier.jpg
+    alt: "Matt on Glacier"
+    title: "My buddy Matt in the ever-important person-next-above-you-on-the-rope-team-who-stops-you-if-you-fall position"
+  - url: /assets/images/blog/FamilyChristmasUpdate2024/BakerClouds.jpg
+    image_path: /assets/images/blog/FamilyChristmasUpdate2024/BakerClouds.jpg
+    alt: "Dramatic clouds before we began the summit day climb"
+    title: "Dramatic clouds before we began the summit day climb"
+  - url: /assets/images/blog/FamilyChristmasUpdate2024/OntoTheIce.jpg
+    image_path: /assets/images/blog/FamilyChristmasUpdate2024/OntoTheIce.jpg
+    alt: "Heading on the ice"
+    title: "Roped up and heading onto the ice"
 ---
 {% include video id="p4wF2m08I_Q" provider="youtube" %} *Our annual Christmas tree decoration timelapse.*
 
@@ -105,7 +117,10 @@ While I've had a few *very* focused photography endeavours this year like the ec
 I did have one big adventure this year with Matt, a friend from college and husband to Meredith's undergraduate roommate.  We try to get out to do some sort of crazy outdoors thing every few years and this year we went with his brother-in-law to Washington to climb the Easton Glacier route up Mount Baker, one of the glaciated volcanos in the Cascade range.  It was my first time traveling on a glacier and it was a blast.  It was the most I've prepared for an adventure like this - as I get older I realize how much I've historically been able to lean on my youth for physically demanding tasks and how that's not really going to be a viable option now and going into the future - so for this trip it was quite a few hours spent on the stair machine with a sandbag-filled backpack on my back as well as some training hikes up mountains to our north (including one up Mount Washington's Tuckerman's Ravine with Tim, another very good friend here in Rhode Island).  Our Baker trip was with a group led by a team of guides since glacier travel was a first for all three of us, and it ends up there are quite a few hazards you can face like falling and sliding for thousands of feet, stepping through a snowbridge and falling into a crevasse, or getting lost on a large slope in the middle of a cloud.  Thankfully our very capable guides were well-versed in all of these hazards and how to mitigate them, and we successfully managed the ~4500 vertical-foot ascent from base camp to summit in a weather clearing on our second day.
 
 {% include video id="gyZr55LrmZs" provider="youtube" %}
-*Heading up the railroad grade section towards base camp, the old lateral moraine of the Easton Glacer on Mount Baker*
+*Heading up the "railroad grade" section towards base camp, the old lateral moraine of the Easton Glacer on Mount Baker*
+
+[![Kulshan]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg)]({{ site.baseurl }}/assets/images/blog/FamilyChristmasUpdate2024/Kulshan_DemingGlacierIcefallPano_Web.jpg)
+*Mount Baker (or Kulshan if you prefer indigenous names) from the Deming Glacier side*
 
 {% include gallery caption="Some images from Mount Baker." %}
 
@@ -158,6 +173,8 @@ As if eclipses and aurora weren't enough, we got a really nice comet back in Oct
 *Comet C/2023 A3 Tsuchinshan-Atlas setting over Greenwich Bay with noctulescent clouds*
 
 # Church Update and a Request - Grace Harbor
-2024 wraps up our family's 10th year in New England.  We greatly miss proximity to family in Texas along with many friends we had there when we moved, but we've been extremely grateful for a wonderful church family here at [Grace Harbor](graceharbor.net) in Providence.  When we were moving, Barna had just filed [a report](https://religionnews.com/2013/01/24/photo-slideshow-americas-least-bible-minded-cities/) listing Providence as America's "least Biblically-minded city," but we've found Grace Harbor to be something of a beachhead for the Gospel here.  In 10 years, we've seen many people from this community come to believe the good news of the Gospel through the faithful preaching and loving community at Grace Harbor, but as we've grown we're now pretty severely capped by the capacity of our current meeting space - an old church building we rent in downtown.  To that end, our church recently purchased a building just west of downtown.  What was once a mill/factory space in Providence will - Lord willing - in the coming few years become a space where God's people gather to worship and hear the Gospel and His word preached faithfully, where pastors in the area come to be better equipped to preach the Bible to their congregations, and from which new churches are planted in surrounding communities.  This is all work that Grace Harbor has been doing for years already; our hope is that with a larger space of our own, God might enable us to do it to a larger degree for many years into the future.
+One of the things that we have been extremely grateful for in New England is our church, [Grace Harbor](graceharbor.net) in Providence.  Each Sunday there is filled with wonderful Biblically-centered preaching, rich worship, and warm fellowship, and in it's relatively short history we've had a rich ministry of helping other churches and pastors in New England.  Over the 10+ years we've been members the church has steadily grown to the point where we're at-capacity in our rented chruch facility in downtown Providence.  Because of this, we recently purchased an old manufacturing space just west of downtown that we'll be renovating into a space to gather.  As part of this, we are undertaking a [fundraising campaign](https://www.graceharbor.net/build) to fund the purchase and construction. We'd cherish your prayers for this effort as our church works to grow God's kingdom in New England.
 
-As part of this, our church is undertaking a fundraiser to help finance the renovation of the new building.  With a current membership of around 250, while we may be a middling to larger evangelical church by New England standards we're not large enough to fund the full cost of the renovation on our own.  We're extremely thankful that many faithful brothers and sisters from beyond our church have already come alongside us to help fund this work, but we're not yet at the point where we can start the major renovation work.  If you're reading this and are a fellow brother or sister in the Gospel, I'd appreciate if you'd prayerfully consider whether some of the earthly treasure God has entrusted to you might help with this work to build God's Kingdom in New England. You can find more out on our [fundraising website](https://www.graceharbor.net/build). If it's something you'd consider, I'd love to chat more about the ministry that's happening at Grace Harbor and what we're hoping to accomplish with God's help in the future.
+<!-- 2024 wraps up our family's 10th year in New England.  We greatly miss proximity to family in Texas along with many friends we had there when we moved, but we've been extremely grateful for a wonderful church family here at [Grace Harbor](graceharbor.net) in Providence.  When we were moving, Barna had just filed [a report](https://religionnews.com/2013/01/24/photo-slideshow-americas-least-bible-minded-cities/) listing Providence as America's "least Biblically-minded city," but we've found Grace Harbor to be something of a beachhead for the Gospel here.  In 10 years, we've seen many people from this community come to believe the good news of the Gospel through the faithful preaching and loving community at Grace Harbor, but as we've grown we're now pretty severely capped by the capacity of our current meeting space - an old church building we rent in downtown.  To that end, our church recently purchased a building just west of downtown.  What was once a mill/factory space in Providence will - Lord willing - in the coming few years become a space where God's people gather to worship and hear the Gospel and His word preached faithfully, where pastors in the area come to be better equipped to preach the Bible to their congregations, and from which new churches are planted in surrounding communities.  This is all work that Grace Harbor has been doing for years already; our hope is that with a larger space of our own, God might enable us to do it to a larger degree for many years into the future.
+
+As part of this, our church is undertaking a fundraiser to help finance the renovation of the new building.  With a current membership of around 250, while we may be a middling to larger evangelical church by New England standards we're not large enough to fund the full cost of the renovation on our own.  We're extremely thankful that many faithful brothers and sisters from beyond our church have already come alongside us to help fund this work, but we're not yet at the point where we can start the major renovation work.  If you're reading this and are a fellow brother or sister in the Gospel, I'd appreciate if you'd prayerfully consider whether some of the earthly treasure God has entrusted to you might help with this work to build God's Kingdom in New England. You can find more out on our [fundraising website](https://www.graceharbor.net/build). If it's something you'd consider, I'd love to chat more about the ministry that's happening at Grace Harbor and what we're hoping to accomplish with God's help in the future. -->
