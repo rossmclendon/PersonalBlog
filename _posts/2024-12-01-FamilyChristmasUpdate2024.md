@@ -58,6 +58,24 @@ galleryWachusett:
 
 To make up for not sending out a Christmas card the past two years, I'll be adding an update about our family here.  Right now there's a mix of finished sections and a few that were written a bit more quickly.  If I haven't finished it by the time you land on this page, I'm sorry - extra time has been hard to come by lately.
 
+# Hearing from You!
+We'd love to hear from family and friends about what's going on in your lives.  Feel free to send me an email or drop a quick message in the form below to let us know what's new and/or how we can be pray for you.
+<form
+  action="https://formspree.io/f/xyzzegvq"
+  method="POST"
+>
+  <label>
+    Name:
+    <input type="name" name="name">
+  </label>
+  <label>
+    What's new with you?
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 # Family Members
 Updates on all the McLendon clan...
 
@@ -191,7 +209,7 @@ As if eclipses and aurora weren't enough, we got a really nice comet back in Oct
 *Comet C/2023 A3 Tsuchinshan-Atlas setting over Greenwich Bay with noctulescent clouds*
 
 # Church Update and a Request - Grace Harbor
-One of the things that we have been extremely grateful for in New England is our church, [Grace Harbor](graceharbor.net) in Providence.  Each Sunday there is filled with wonderful Biblically-centered preaching, rich worship, and warm fellowship, and in it's relatively short history we've had a rich ministry of helping other churches and pastors in New England.  Over the 10+ years we've been members the church has steadily grown to the point where we're at-capacity in our rented chruch facility in downtown Providence.  Because of this, we recently purchased an old manufacturing space just west of downtown that we'll be renovating into a space to gather.  As part of this, we are undertaking a [fundraising campaign](https://www.graceharbor.net/build) to fund the purchase and construction. We'd cherish your prayers for this effort as our church works to grow God's kingdom in New England.
+One of the things that we have been extremely grateful for in New England is our church, [Grace Harbor](graceharbor.net) in Providence.  Each Sunday there is filled with wonderful Biblically-centered preaching, rich worship, and warm fellowship, and in it's relatively short history we've had a significant ministry of helping equip other churches and pastors in New England.  Over the 10+ years we've been members the church has steadily grown to the point where we're at-capacity in our rented chruch facility in downtown Providence.  Because of this, we recently purchased an old manufacturing space just west of downtown that we'll be renovating into a space to gather.  As part of this, we are undertaking a [fundraising campaign](https://www.graceharbor.net/build) to fund the purchase and construction. Our church would cherish your prayers for this effort as we work to grow God's kingdom in New England.
 
 <!-- 2024 wraps up our family's 10th year in New England.  We greatly miss proximity to family in Texas along with many friends we had there when we moved, but we've been extremely grateful for a wonderful church family here at [Grace Harbor](graceharbor.net) in Providence.  When we were moving, Barna had just filed [a report](https://religionnews.com/2013/01/24/photo-slideshow-americas-least-bible-minded-cities/) listing Providence as America's "least Biblically-minded city," but we've found Grace Harbor to be something of a beachhead for the Gospel here.  In 10 years, we've seen many people from this community come to believe the good news of the Gospel through the faithful preaching and loving community at Grace Harbor, but as we've grown we're now pretty severely capped by the capacity of our current meeting space - an old church building we rent in downtown.  To that end, our church recently purchased a building just west of downtown.  What was once a mill/factory space in Providence will - Lord willing - in the coming few years become a space where God's people gather to worship and hear the Gospel and His word preached faithfully, where pastors in the area come to be better equipped to preach the Bible to their congregations, and from which new churches are planted in surrounding communities.  This is all work that Grace Harbor has been doing for years already; our hope is that with a larger space of our own, God might enable us to do it to a larger degree for many years into the future.
 
