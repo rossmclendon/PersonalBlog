@@ -59,7 +59,7 @@ galleryWachusett:
 To make up for not sending out a Christmas card the past two years, I'll be adding an update about our family here.  Right now there's a mix of finished sections and a few that were written a bit more quickly.  If I haven't finished it by the time you land on this page, I'm sorry - extra time has been hard to come by lately.
 
 # Hearing from You!
-We'd love to hear from family and friends about what's going on in your lives.  Feel free to send me an email or drop a quick message in the form below to let us know what's new and/or how we can be pray for you.
+We'd love to hear from family and friends about what's going on in your lives.  Feel free to send me an email or drop a quick message in the form below to let us know what's new and/or how we can be praying for you.
 <form
   action="https://formspree.io/f/xyzzegvq"
   method="POST"
